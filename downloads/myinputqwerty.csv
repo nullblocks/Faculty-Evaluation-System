@@ -1,0 +1,52 @@
+ID,rating,prediction
+1,nothing positive,negative
+1,Ma'am is very good,positive
+1,teacher is very supportive towards students.,netural
+1,The teacher has thorough knowledge of the subject. The teacher can explain the conecpts easily and make students visualise them. She is very smart. She cares whether the students have understood the conecpts or not.,positive
+1,taught us nicely,positive
+1,lecture not on time,positive
+1,"taking efforts and taught them while sitting in car,netural",positive
+1,Teaching method is worst,negative
+2,lecture practical is not on time ,negative
+2,The teacher is inconsistent with her schedule. She is quite lazy and procrastinates taking lectures. She takes real short lectures and exploits special treatment for herself.,positive
+2,doesn't come for the lectures for the most times,positive
+2,teaching is average,netural
+2,Ma'am provides mcq  .. So I love her ,positive
+2,teaching style is good ,positive
+2,The teacher teches nicely. She is not very indulging in whether everyone is paying attention or not but still good explanations. She is average teacher.,positive
+2,behaviour towards student is good,positive
+3,Nothing positive,negative
+3,Python is easy sub.. ,positive
+3,proper notes are given which helps in studies,positive
+3,The teacher is hard working. She makes sure all study material is up to standards and cares about the students' performance.she is a very good teacher,netural
+3,taking efforts and taught them while sitting in car,positive
+3,teacher language is bad towards students,netural
+3,Ma'am don't know how to teach python,negative
+3,teacher behavior towards students is not so good . ,positive
+4,The teacher is almost always angry. She talks very loudly when angry and sometimes isnt mature enough. She is threatening and over-confident. ,negative
+4,gets angry most times on silly things,negative
+4,average teaching,netural
+4,Ma'am never knows the solution of my doubts,negative
+4,teaching is good sometimes,positive
+4,The teacher is ok. She teches and completes portion in schedule. She doent explain well but the explanations are satisfactory.,negative
+4,doing hardwork for making notes from various website,positive
+5,good notes,positive
+5,Linux is cool...,positive
+5,good notes for better understanding,positive
+5,Very nice teacher. Most hardworking teacher i have seen yet. Gives notes sometimes handwritten. She is forgiving and at the same time strict enough. ,positive
+5,taught us nicely,positive
+5,"extra lectures
+5,Ma'am don't know shell script """,positive
+5,sometimes linux feels bore when Teacher teaches ,negative
+5,Very sloppy teacher. Doesnt explain anything and only reads from notebook. She seems lazy and makes us feel sleepy in lectures.,negative
+5,gets angry on silly things and make us punish on silly things and in punishment she give to write something for many times,netural
+5,The teacher we have in java is good in knowledge but the mam does not come for the lecture many times and due to which it causes the student at the end of the semester that portion is not at all completed just mam has taught 3 lessons out of 6 .And after that at the end of the semester they notified us to submit the experiments in half day .,netural
+4,"Had very problems regarding submission and never provided notes on time , always faced some problems in completing the portion",negative
+3,Average ,netural
+2,This mam taught us average,negative
+1,"I learned something from every class, plus had a lot of fun doing it!",positive
+2,Average,netural
+3,The teacher in python is ever angry on all things on silly things it get angry this teacher also,positive
+4,not taught us well and it they just study from presentation slide and just read the lines and taught . So how we can make projects based on machine learning and AI .,positive
+5,Short tempered gets angry on very small things ,negative
+1,the mam taught us average,negative
